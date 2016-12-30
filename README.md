@@ -1,3 +1,3 @@
 # hello-world-
 I am new
-I also learn GitHub 
+I also wanna new program
